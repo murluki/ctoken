@@ -1,36 +1,35 @@
-# -esk-Token - ERC-20 based stable coin tied to Czech crown
+# CHF-Swiss-Coin - ERC-20 Based Stablecoin Tied to Swiss Franc (CHF)
 
 ## Pegging Mechanism
 
-### Collateralized Approach:
-- **Direct Peg to CZK:** Each ČToken is pegged 1:1 to the Czech Koruna, ensuring that for every ČToken issued, an equivalent amount in CZK or CZK-denominated assets is held as collateral.
-- **Collateral Management:** The collateral is stored in a regulated and audited manner, typically involving a mix of bank deposits and short-term government securities, aligning with EU regulatory standards.
-- **Transparency:** Audited reports of the reserve holdings are published regularly to maintain transparency and trust.
+### Collateralized Approach
+- **Direct Peg to CHF**: Each Swiss-Coin is pegged 1:1 to the Swiss Franc, ensuring that for every Swiss-Coin issued, an equivalent amount in CHF or CHF-denominated assets is held as collateral.
+- **Collateral Management**: The collateral is stored in a secure, regulated, and audited manner, involving a mix of Swiss bank deposits and government securities, in line with Swiss and EU regulatory standards.
+- **Transparency**: Regularly published audited reports of the reserve holdings to maintain transparency and build trust.
 
-### Stability Mechanism
+## Stability Mechanism
 
-#### Reserve Management:
-- **Over-Collateralization:** ČToken is over-collateralized, holding more than 1 CZK in value for each ČToken to account for market fluctuations and ensure stability.
-- **Risk Management:** Risk management strategies are implemented to protect the reserve against market volatility, thus ensuring the stability of the peg.
+### Reserve Management
+- **Over-Collateralization**: Swiss-Coin is over-collateralized, maintaining more than 1 CHF in value for each Swiss-Coin to buffer against market fluctuations and ensure stability.
+- **Risk Management**: Implementation of risk management strategies to protect the reserve against market volatility and maintain the stability of the peg.
 
-#### Algorithmic Assistance:
-- **Supplementary Algorithms:** Smart contracts are used to manage the supply of ČToken in response to market conditions, with collateral serving as the primary stability mechanism.
+### Algorithmic Assistance
+- **Supplementary Algorithms**: Utilization of smart contracts to adjust the supply of Swiss-Coin in response to market conditions, with physical collateral as the primary stability mechanism.
 
 ## Additional Features
 
-### Governance:
-- **Decentralized Governance Model:** A governance model is in place that involves ČToken holders in decision-making processes, such as reserve management or future upgrades.
-- **Compliance Focus:** The governance model adheres to regulatory requirements.
+### Governance
+- **Decentralized Governance Model**: A governance model involving Swiss-Coin holders in decision-making processes, covering aspects like reserve management and protocol upgrades.
+- **Compliance Focus**: Ensuring adherence to regulatory requirements in governance practices.
 
-### Regulatory Compliance:
-- **AML/KYC Integration:** AML/KYC procedures are integrated for transactions converting ČToken to fiat, complying with European and Czech regulations.
-- **Legal Framework Adherence:** Continuous monitoring and adaptation to regulatory changes, especially those affecting stablecoins, are maintained.
+### Regulatory Compliance
+- **AML/KYC Integration**: Integration of AML/KYC procedures for converting Swiss-Coin to fiat, aligning with Swiss, European, and international regulations.
+- **Legal Framework Adherence**: Continuous adaptation to legal and regulatory changes, particularly those impacting stablecoins.
 
-### User Incentives:
-- **Staking Rewards:** Rewards are offered for users who stake ČToken, contributing to the liquidity and stability of the stablecoin.
-- **Integration with DeFi Platforms:** Partnerships with existing DeFi platforms are established to expand the use cases of ČToken, including lending and yield farming.
+### User Incentives
+- **Staking Rewards**: Provision of rewards for users staking Swiss-Coin, enhancing the liquidity and overall stability of the stablecoin.
+- **DeFi Platform Integration**: Establishing partnerships with DeFi platforms to broaden Swiss-Coin’s utility in activities like lending and yield farming.
 
-### Transaction Efficiency:
-- **Low Transaction Fees:** The efficiency of zkEVM is leveraged to offer lower transaction fees compared to traditional blockchains.
-- **Fast Transaction Processing:** The scalability of zkEVM is utilized for quicker transaction confirmations.
-
+### Transaction Efficiency
+- **Low Transaction Fees**: Exploiting the efficiency of zkEVM to offer competitive transaction fees.
+- **Rapid Transaction Processing**: Leveraging the scalability of zkEVM for fast transaction confirmations, enhancing user experience.
